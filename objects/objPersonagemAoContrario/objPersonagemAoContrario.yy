@@ -7,7 +7,6 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"objItem","path":"objects/objItem/objItem.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"objLaminas","path":"objects/objLaminas/objLaminas.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"objLaminasMovimento","path":"objects/objLaminasMovimento/objLaminasMovimento.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"objPersonagemAoContrario",
@@ -35,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprPersonagem",
-    "path":"sprites/sprPersonagem/sprPersonagem.yy",
+    "name":"sprPersonagemFemininoCorrendo",
+    "path":"sprites/sprPersonagemFemininoCorrendo/sprPersonagemFemininoCorrendo.yy",
   },
   "spriteMaskId":null,
   "visible":true,

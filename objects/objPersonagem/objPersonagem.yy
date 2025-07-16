@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprPersonagem",
-    "path":"sprites/sprPersonagem/sprPersonagem.yy",
+    "name":"sprPersonagemFeminino",
+    "path":"sprites/sprPersonagemFeminino/sprPersonagemFeminino.yy",
   },
   "spriteMaskId":null,
   "visible":true,
