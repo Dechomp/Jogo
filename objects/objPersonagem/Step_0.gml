@@ -24,10 +24,10 @@ if dinheiro = 3{
 
 
 if keyboard_check(vk_anykey){
-	sprite_index = sprPersonagemFemininoCorrendo
+	sprite_index = sprite_correndo
 }
 else{
-		sprite_index = sprPersonagemFeminino
+		sprite_index = sprite_personagem
 }
 
 
